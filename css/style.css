@@ -22,6 +22,22 @@
     text-decoration: underline overline;
 }
 
+#navbar-container {
+    position: relative;                      
+    left: 50%;                                   
+    float: left;                                    
+    float: left;                                   
+    position: relative;                      
+    right: 50%;
+    display: block;
+    display: block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    background-color: #000;
+    text-decoration: underline overline;
+}
+
 #sidebar {
     position: fixed;
     right:0%;
